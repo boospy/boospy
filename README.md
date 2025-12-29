@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/boospy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=boospy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=boospy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 </p>
